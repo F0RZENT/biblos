@@ -1,0 +1,21 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  font-size: 20px;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-family: 'Maven Pro', sans-serif;
+}
+.biblos{
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.aboutus{
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.bibloss{
+  display: flex;
+  justify-content: center;
+}
